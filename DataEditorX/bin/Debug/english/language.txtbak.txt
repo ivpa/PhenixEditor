@@ -1,0 +1,125 @@
+﻿DataEditForm->btn_add Add
+DataEditForm->btn_del Delte
+DataEditForm->btn_img Image
+DataEditForm->btn_lua Lua
+DataEditForm->btn_mod Modify
+DataEditForm->btn_PageDown >>
+DataEditForm->btn_PageUp <<
+DataEditForm->btn_reset Rest
+DataEditForm->btn_serach Search
+DataEditForm->btn_undo Undo
+DataEditForm->button1 Up
+DataEditForm->button2 Down
+DataEditForm->cb_cardattribute Atribute
+DataEditForm->cb_cardlevel Level/Rank
+DataEditForm->cb_cardrace Race
+DataEditForm->cb_cardrule Rule
+DataEditForm->cb_setname1 SetName
+DataEditForm->cb_setname2 SetName
+DataEditForm->cb_setname3 SetName
+DataEditForm->cb_setname4 SetName
+DataEditForm->DataEditForm DataEditorX by 247321453 Ver:1.6.6.0(DEBUG)
+DataEditForm->lb_atkdef ATK/DEF
+DataEditForm->lb_cardalias Alias
+DataEditForm->lb_cardcode Card Code
+DataEditForm->lb_categorys Category
+DataEditForm->lb_pleft_right PScale
+DataEditForm->lb_scripttext 
+DataEditForm->lb_tiptexts TipText
+DataEditForm->lb_types Card Type
+DataEditForm->lb2 /
+DataEditForm->lb4 /
+DataEditForm->lb5 /
+DataEditForm->lv_cardlist0 Card Code
+DataEditForm->lv_cardlist1 Card Name
+DataEditForm->menuitem_about About
+DataEditForm->menuitem_checkupdate Check Update
+DataEditForm->menuitem_compdb Compression DataBase
+DataEditForm->menuitem_convertimage Inport Images
+DataEditForm->menuitem_copyselectto Slect Cards Copy To...
+DataEditForm->menuitem_copyto Now All Cards Copy To...
+DataEditForm->menuitem_cutimages Cut Images For Game
+DataEditForm->menuitem_file File
+DataEditForm->menuitem_github Github
+DataEditForm->menuitem_help Help
+DataEditForm->menuitem_new New
+DataEditForm->menuitem_open Open
+DataEditForm->menuitem_openLastDataBase Open Last DataBase
+DataEditForm->menuitem_quit Quit
+DataEditForm->menuitem_readimages Read for Image Folder
+DataEditForm->menuitem_readydk Read for ydk file
+DataEditForm->menuitem_saveasmse All Now Cards Save As...
+DataEditForm->menuitem_saveasmse_select Select Cards Save As...
+DataEditForm->pl_cardtype 
+DataEditForm->pl_cardtype1 Monster   
+DataEditForm->pl_cardtype1024 Union     
+DataEditForm->pl_cardtype1048576 Counter   
+DataEditForm->pl_cardtype128 Ritual    
+DataEditForm->pl_cardtype131072 Continuous
+DataEditForm->pl_cardtype16 Normal    
+DataEditForm->pl_cardtype16384 Token     
+DataEditForm->pl_cardtype16777216 Pendulum 
+DataEditForm->pl_cardtype2 Spell     
+DataEditForm->pl_cardtype2048 Gemini    
+DataEditForm->pl_cardtype2097152 Flip      
+DataEditForm->pl_cardtype256 T-Monster 
+DataEditForm->pl_cardtype262144 Equip     
+DataEditForm->pl_cardtype32 Effect    
+DataEditForm->pl_cardtype4 Trap      
+DataEditForm->pl_cardtype4096 Tuner     
+DataEditForm->pl_cardtype4194304 Toon      
+DataEditForm->pl_cardtype512 Spirit    
+DataEditForm->pl_cardtype524288 Field     
+DataEditForm->pl_cardtype64 Fusion    
+DataEditForm->pl_cardtype65536 Quick-Play
+DataEditForm->pl_cardtype8192 Synchro   
+DataEditForm->pl_cardtype8388608 Xyz       
+DataEditForm->pl_category 
+DataEditForm->pl_category1 S/T Destroy    
+DataEditForm->pl_category1024 Recovery       
+DataEditForm->pl_category1048576 Type-Related   
+DataEditForm->pl_category1073741824 Xyz-Related    
+DataEditForm->pl_category128 Destroy Deck   
+DataEditForm->pl_category131072 Direct Attack  
+DataEditForm->pl_category134217728 Gamble         
+DataEditForm->pl_category16 Back to Hand   
+DataEditForm->pl_category16384 Piercing       
+DataEditForm->pl_category16777216 Destroy        
+DataEditForm->pl_category2 Destroy Monster
+DataEditForm->pl_category2048 Position       
+DataEditForm->pl_category2097152 Property-Related
+DataEditForm->pl_category2147483648 Negate Effect  
+DataEditForm->pl_category256 Draw           
+DataEditForm->pl_category262144 Special Summon 
+DataEditForm->pl_category268435456 Fusion-Related 
+DataEditForm->pl_category32 Back to Deck   
+DataEditForm->pl_category32768 Repeat Attack  
+DataEditForm->pl_category33554432 Select         
+DataEditForm->pl_category4 Banish         
+DataEditForm->pl_category4096 Control        
+DataEditForm->pl_category4194304 Damage LP      
+DataEditForm->pl_category512 Search         
+DataEditForm->pl_category524288 Token          
+DataEditForm->pl_category536870912 Tuner-Related  
+DataEditForm->pl_category64 Destroy Hand   
+DataEditForm->pl_category65536 Limit Attack   
+DataEditForm->pl_category67108864 Counter        
+DataEditForm->pl_category8 Graveyard      
+DataEditForm->pl_category8192 Change ATK/DEF 
+DataEditForm->pl_category8388608 Recover LP     
+DataEditForm->pl_image 
+DataEditForm->tb_atk 0
+DataEditForm->tb_cardalias 0
+DataEditForm->tb_cardcode 0
+DataEditForm->tb_cardname 
+DataEditForm->tb_cardtext 
+DataEditForm->tb_def 0
+DataEditForm->tb_edittext 
+DataEditForm->tb_page 1
+DataEditForm->tb_pagenum 1
+DataEditForm->tb_pleft 0
+DataEditForm->tb_pright 0
+DataEditForm->tb_setcode1 0
+DataEditForm->tb_setcode2 0
+DataEditForm->tb_setcode3 0
+DataEditForm->tb_setcode4 0

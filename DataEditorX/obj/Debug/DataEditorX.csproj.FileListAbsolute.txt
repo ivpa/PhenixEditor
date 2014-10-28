@@ -1,0 +1,44 @@
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\DataEditorX.exe.config
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-attribute.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-category.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-level.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-race.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-rule.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-setname.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\card-type.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\cover.jpg
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\language.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\message.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\mse-config.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\mse-monster.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\mse-head.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\mse-pendulum.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\chinese\mse-spelltrap.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-attribute.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-category.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-level.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-race.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-rule.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-setname.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\card-type.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\cover.jpg
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\language.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\message.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\mse-config.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\mse-head.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\mse-monster.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\mse-pendulum.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\english\mse-spelltrap.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\Magic Set Editor 2\update\download.bat
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\Magic Set Editor 2\update\readme.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\Magic Set Editor 2\update\update.exe
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\Magic Set Editor 2\update\update.exe.config
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\readme.txt
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\DataEditorX.exe
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\DataEditorX.pdb
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\obj\Debug\DataEditorX.csprojResolveAssemblyReference.cache
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\obj\Debug\DataEditorX.DataEditForm.resources
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\obj\Debug\DataEditorX.csproj.GenerateResource.Cache
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\obj\Debug\DataEditorX.exe
+C:\Users\Ivpa\Documents\editorx\trunk\DataEditorX\obj\Debug\DataEditorX.pdb
